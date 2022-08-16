@@ -1,0 +1,253 @@
+*{ 
+    margin: 0;
+    padding: 0;
+    border: none;
+    text-decoration: none;
+}
+
+body{
+
+ background-color: white;
+ background-size: 1650px 980px;
+ display: block;
+ float: none;
+ background-color: greenyellow;
+ background-image: url(imagens/fundo_gif.gif);
+
+}
+
+header{
+
+    width: 60%;
+    height: 210px;
+    border: 2px solid black;
+    background-color: darkred;
+    margin: 0 auto;
+    margin-top: 20px;
+
+}
+
+#text1{
+
+    text-align: center;
+    font-size: 50px;
+    font-weight: bolder;
+    margin-top: 66px;
+
+
+}
+
+#text2{
+
+    text-align: center;
+    font-size: 25px;
+    font-weight: bolder;
+    margin-top: 50px;
+
+}
+
+
+
+
+main{
+
+    /*border: 2px solid black;*/
+    width: 60%;
+    height: 450px;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+
+#as2{
+
+    width: 100%;
+    height: 120%;
+    border: 1px solid black;
+    margin-left: 210px;
+    background-color: rgba(123, 321, 155, 1);
+    background-size: 550px 550px;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    background-image: url(imagens/gif_fundo.gif);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+
+#sec3{
+
+    width: 45%;
+    height: 25%;
+    border: 1px solid black;
+    margin-left: 10px;
+    float: left;
+    margin-top: 10px;
+    background-color: rgba(231, 100, 200, 1);
+    background-image: url(imagens/print_fundo_padrão.PNG);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+
+#text3{
+
+    color: red;
+    text-align: center;
+    font-size: 17px;
+    font-weight: bolder;
+    margin-top: 50px;
+
+}
+
+#sec4{
+
+    width: 45%;
+    height: 25%;
+    border: 1px solid black;
+    margin-right: 10px;
+    float: right;
+    margin-top: 10px;
+    background-color: rgba(231, 100, 200, 1);
+    background-image: url(imagens/print_fundo_xadrez.PNG);
+    background-size: 100% 100%;
+
+  
+}
+
+#text4{
+
+    color:red;
+    text-align: center;
+    font-size: 17px;
+    font-weight: bolder;
+    margin-top: 50px;
+
+}
+
+
+#nav4{
+
+    width: 95.9%;
+    height: 20%;
+    border: 1px solid black;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 140px;
+    background-color: rgba(255, 132, 130, 1);
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: red;
+    font-style: unset;
+    text-shadow: 10px;
+
+}
+
+#sec5{
+
+    width: 45%;
+    height: 30%;
+    border: 1px solid black;
+    margin-left: 10px;
+    float: left;
+    margin-top: 10px;
+    background-color: rgba(231, 100, 200, 1);
+    background-repeat: no-repeat;
+    background-image: url(imagens/print_fundo_espaço.PNG);
+    background-size: 100% 100%;
+
+}
+
+#text5{
+
+    color: black;
+    text-align: center;
+    font-size: 17px;
+    font-weight: bolder;
+    margin-top: 50px;
+    color: red;
+
+}
+
+#sec6{
+
+    width: 45%;
+    height: 30%;
+    border: 1px solid black;
+    margin-right: 10px;
+    float: right;
+    margin-top: 10px;
+    background-color: rgba(231, 100, 200, 1);
+    background-image: url(imagens/fundo_heróis.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+
+#text6{
+
+    color: black;
+    text-align: center;
+    font-size: 17px;
+    font-weight: bolder;
+    margin-top: 50px;
+    color: red;
+    
+
+}
+
+
+#sec7{
+
+    width: 45%;
+    height: 30%;
+    border: 1px solid black;
+    margin-left: 10px;
+    float: left;
+    margin-top: 10px;
+    background-color: rgba(231, 100, 200, 1);
+    background-image: url(imagens/print_fundo_desenho.PNG);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+
+#text7{
+
+    color: black;
+    text-align: center;
+    font-size: 17px;
+    font-weight: bolder;
+    margin-top: 50px;
+    color: darkred;
+    margin-top: 65px;
+
+}
+
+#sec8{
+
+    width: 45%;
+    height: 30%;
+    border: 1px solid black;
+    margin-right: 10px;
+    float: right;
+    margin-top: 10px;
+    background-color: rgba(231, 100, 200, 1);
+    background-image: url(imagens/print_fundo_anime.PNG);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+
+}
+
+#text8{
+
+    color: red;
+    text-align: center;
+    font-size: 17px;
+    font-weight: bolder;
+    margin-top: 75px;
+
+
+}

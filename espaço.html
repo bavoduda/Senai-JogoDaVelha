@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <title> Jogo da velha </title>
+
+    <script type="text/javascript" src="externo_espaço.js"> </script>
+    <link rel="stylesheet" href="style_espaço.css"/>
+
+</head>
+
+<body alink="black" vlink="black" link="black">
+
+    <nav id="nav1">
+
+    <form action="#" align="center">
+
+        <table border="" align="center" id="table1">
+
+            <tr> 
+
+                <td colspan="3"> <strong> Jogar contra o computador: </strong> </td>
+
+
+            </tr>
+
+            <tr>
+
+                <td> <input type="radio" name="cpu" id="cpu" required> SIM </td>
+                <td> <input type="radio" name="cpu" id="cpu" required checked> NÂO </td>
+
+            </tr>
+
+
+        </table>
+
+
+    </form>
+
+    </nav>
+
+    <table width="200" border="1" align="center" id="table2">
+        <tbody>
+
+            <tr>
+
+                <td> <img src="imagens/transp.png" alt="imagem" id="c1" onclick="return checkjogo(this.id)"> </td>
+                <td> <img src="imagens/transp.png" alt="imagem" id="c2" onclick="return checkjogo(this.id)"> </td>
+                <td> <img src="imagens/transp.png" alt="imagem" id="c3" onclick="return checkjogo(this.id)"> </td>
+
+            </tr>
+
+            <tr>
+
+                <td> <img src="imagens/transp.png" alt="imagem" id="c4" onclick="return checkjogo(this.id)"> </td>
+                <td> <img src="imagens/transp.png" alt="imagem" id="c5" onclick="return checkjogo(this.id)"> </td>
+                <td> <img src="imagens/transp.png" alt="imagem" id="c6" onclick="return checkjogo(this.id)"> </td>
+
+            </tr>
+
+            <tr>
+
+                <td> <img src="imagens/transp.png" alt="imagem" id="c7" onclick="return checkjogo(this.id)"> </td>
+                <td> <img src="imagens/transp.png" alt="imagem" id="c8" onclick="return checkjogo(this.id)"> </td>
+                <td> <img src="imagens/transp.png" alt="imagem" id="c9" onclick="return checkjogo(this.id)"> </td>
+ 
+            </tr>
+
+        </tbody>
+    </table>
+
+    <footer>
+        <a href="espaço.html" id="restart"> REINICIAR O JOGO </a>
+        <a href="index.html" id="back"> VOLTAR AO MENU PRINCIPAL </a>
+    </footer>
+    
+</body>
+
+</html>

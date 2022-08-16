@@ -1,0 +1,72 @@
+
+body{
+
+    background-color:white; 
+    background-image: url(imagens/fundo_desenho.PNG);
+    background-size: 100% 110%;
+    background-repeat: no-repeat;
+   
+   }
+   
+   #table1{
+   
+       background-color: white;
+   
+   
+   }
+   
+   /*#table2{
+   
+       background-color: black;
+   
+   
+   }*/
+   
+   #nav1{
+   
+       margin: 0 auto;
+       height: 100px;
+       text-align: center;
+   
+   }
+   
+   footer{
+   
+       margin: 0 auto;
+       margin-top: 150px;
+   
+   }
+   
+   #restart{
+   
+   
+       text-align: center;
+       font-size: 25px;
+       font-weight: bolder;
+       margin: 0 auto;
+       float: left;
+       border: 2px solid black;
+       text-decoration: none;
+       background-color: red;
+   
+   }
+   
+   #back{
+   
+       text-align: center;
+       font-size: 25px;
+       font-weight: bolder;
+       margin: 0 auto;
+       float: right;
+       border: 2px solid black;
+       text-decoration: none;
+       background-color: lime;
+   
+   }
+   
+  table tr td img {
+    
+    width: 150px;
+    height: 150px;
+    
+   }
